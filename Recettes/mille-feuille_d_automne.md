@@ -1,5 +1,7 @@
 # Mille-feuille d'automne (Lasagnes aux légumes)
 
+< img src="images/lasagne-aux-legumes-1200.jpg" >
+
 [Recette originale](https://www.meilleurduchef.com/fr/recette/lasagne-aux-legumes.html) \
 Pour : 4 personnes \
 Préparation : 1h \
