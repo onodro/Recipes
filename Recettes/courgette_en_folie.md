@@ -8,11 +8,11 @@ Difficulté : 2/5
 ### Ingrédients 
 
 + 1 pâte brisée
-+ 2 courgettes de taille respectables
++ 2 courgettes d'une taille respectable
 + 1 oignon
 + 2 gousses d'ail 
 + 1 bûche de chèvre
-+ 2 cuillère à soupe de miel  
++ 2 cuillères à soupe de miel  
 + 20cl de crème fraiche
 + 2 oeufs
 + 1 cuillère à café de paprika
