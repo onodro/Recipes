@@ -1,5 +1,7 @@
 # Folie de courgette (Tarte à la courgette) 
 
+<img src="/Images/tarte_courgette.jpg" width="400">
+
 Pour : 2-3 personnes \
 Préparation : 3/4h \
 Cuisson : 30min \
